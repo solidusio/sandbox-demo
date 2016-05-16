@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/solidusio/solidus.git
-  revision: cfa634e05911d2c14c339944dfbf4f42d06a9ec0
+  revision: fdad15b2b223a596e3b475de686d391e1ce33216
   specs:
     solidus (1.4.0.alpha)
       solidus_api (= 1.4.0.alpha)
@@ -111,9 +111,9 @@ GEM
       sass (~> 3.4)
       thor (~> 0.19)
     builder (3.2.2)
-    byebug (8.2.5)
+    byebug (9.0.3)
     camertron-eprun (1.1.0)
-    cancancan (1.13.1)
+    cancancan (1.14.0)
     canonical-rails (0.0.11)
       rails (>= 3.1, < 5.0)
     carmen (1.0.2)
@@ -141,7 +141,7 @@ GEM
       nokogiri (~> 1.6.0)
       polyglot
       rails (>= 3.1)
-    devise (3.5.9)
+    devise (3.5.10)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 3.2.6, < 5)
@@ -153,7 +153,7 @@ GEM
     erubis (2.7.0)
     execjs (2.6.0)
     ffaker (2.2.0)
-    font-awesome-rails (4.6.2.0)
+    font-awesome-rails (4.6.3.0)
       railties (>= 3.2, < 5.1)
     friendly_id (5.1.0)
       activerecord (>= 4.0.0)
@@ -222,8 +222,8 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    pry-byebug (3.3.0)
-      byebug (~> 8.0)
+    pry-byebug (3.4.0)
+      byebug (~> 9.0)
       pry (~> 0.10)
     rabl (0.11.8)
       activesupport (>= 2.3.14)
@@ -304,7 +304,7 @@ GEM
     stringex (1.5.1)
     thor (0.19.1)
     thread_safe (0.3.5)
-    tilt (2.0.2)
+    tilt (2.0.4)
     truncate_html (0.9.2)
     turbolinks (2.5.3)
       coffee-rails
