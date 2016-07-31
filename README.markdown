@@ -1,9 +1,5 @@
-# Solidus Demo Store
+# Solidus Demo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/solidusio/sandbox-demo)
-
-This is a standalone copy of the sandbox store, which can be generated manually
-from [Solidus][1]. This repo exists to support Heroku's one-click button
-deployments.
-
-[1]: https://github/solidusio/solidus
+This repository has been deprecated in favour of a custom Heroku buildpack that
+is integrated into the Heroku button [in the main Solidus
+README](https://github.com/solidusio/solidus#demo).
